@@ -1,0 +1,9 @@
+[package]
+name = "kata_rs"
+version = "0.1.0"
+authors = ["cdelmas <cyril.delmas@gmail.com>"]
+
+[dependencies]
+env_logger = "0.5.10"
+chrono = "0.4.3"
+log = "0.4.0"
